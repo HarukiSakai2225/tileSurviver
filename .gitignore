@@ -1,0 +1,84 @@
+# ==============================
+# Unity generated folders
+# ==============================
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# ==============================
+# Unity generated files
+# ==============================
+
+*.log
+*.stackdump
+
+# ==============================
+# Visual Studio / Rider / IDE
+# ==============================
+
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==============================
+# Unity auto-generated metadata
+# ==============================
+
+sysinfo.txt
+
+# ==============================
+# OS generated files
+# ==============================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==============================
+# Builds / Archives
+# ==============================
+
+*.apk
+*.aab
+*.unitypackage
+
+# ==============================
+# Crash / Memory captures
+# ==============================
+
+[Mm]emoryCaptures/
+
+# ==============================
+# Addressables
+# ==============================
+
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.bak
+*.swp

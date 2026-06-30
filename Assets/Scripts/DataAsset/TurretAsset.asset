@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd26c14c2b74624da022be69b03d134, type: 3}
+  m_Name: TurretAsset
+  m_EditorClassIdentifier: 
+  StatusName:
+  - "\u5F3E\u901F"
+  - "\u767A\u5C04\u30EC\u30FC\u30C8"
+  - "\u5C04\u7A0B\u8DDD\u96E2"
+  - "\u5C04\u6483\u7CBE\u5EA6"
+  - "\u5C04\u6483\u30C0\u30E1\u30FC\u30B8"
+  maxRandomNum:
+  - 20
+  - 20
+  - 20
+  - 20
+  - 20
+  StatusPercentWeight: 0300000003000000030000000300000003000000
+  LvUpString:
+  - 
+  - "\u306E"
+  - 
+  - "\u304C"
+  - 
+  - "%\u30A2\u30C3\u30D7"
+  image:
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  - {fileID: 21300000, guid: f5cd2b08af7a5294b936d3f054b0ed13, type: 3}
+  targetComponentName: TurretController
+  LvUpPercentValue:
+  - 1
+  - 5
+  - 10
+  - 15
